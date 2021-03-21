@@ -1,5 +1,5 @@
-const addTwo = (num) => {
-    return num+2;
+const addTwo = (n) => {
+    return n+2;
   };
 
 module.exports = { addTwo };
